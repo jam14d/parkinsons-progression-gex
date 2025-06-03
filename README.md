@@ -34,11 +34,6 @@ This progression-aware perspective may highlight candidate genes or pathways inv
    - Boxplots illustrate expression trends for individual genes.
    - Linear regression models capture directional progression signals.
 
-## Key Questions
-
-- Which genes display consistent up- or down-regulation across disease stages?
-- Are any of these genes known to be neurodegeneration-associated?
-- Could this framework be extended to longitudinal human or model organism datasets?
 
 ## Running the Analysis
 
