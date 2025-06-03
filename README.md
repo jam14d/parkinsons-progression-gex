@@ -37,7 +37,3 @@ The original study (Lesnick et al., 2007) identified axon guidance genes as PD r
 ## Citation
 
 Lesnick TG et al. *A genomic pathway approach to a complex disease: axon guidance and Parkinson disease.* PLoS Genet. 2007;3(6):e98.
-
-## License
-
-MIT License
