@@ -1,6 +1,6 @@
 # Exploring Gene Expression Dynamics Across Parkinson’s Disease Progression
 
-This project investigates gene expression patterns across stages of Parkinson’s disease (PD) progression using microarray data from the NCBI GEO dataset GSE49036. Rather than treating PD as a binary condition (disease vs. control), this analysis explores which genes show stage-dependent expression changes — a signal of potential involvement in disease progression mechanisms.
+This project investigates gene expression patterns across stages of Parkinson’s disease (PD) progression using microarray data from the NCBI GEO dataset GSE49036. 
 
 The foundational study for this dataset (Lesnick et al., 2007) identified axon guidance pathway genes as contributors to PD risk and onset using SNP-based pathway modeling. This project takes a complementary approach. By leveraging Braak staging (Control, BR12, BR34, BR56) as a continuous proxy for disease severity, I aim to identify genes whose expression levels correlate with increasing neuropathological burden in the substantia nigra.
 
