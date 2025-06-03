@@ -35,3 +35,11 @@ results/*
 *.json
 *.key
 *.secret
+
+
+#Icons
+Icon
+Icon?
+Icon\r
+"Icon\r"
+Icon*
