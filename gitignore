@@ -20,6 +20,8 @@ venv/
 # Data and result files
 data/*
 !data/.gitkeep
+/data/
+
 
 results/*
 !results/.gitkeep
